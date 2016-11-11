@@ -9,10 +9,12 @@ This extension adds IntelliSense for IgniteUI controls to your visual Visual Stu
 #Getting Started
 1. This extension creates a folder named 'igniteui' in the root directory of your application. jQuery and IgniteUI TypeScript definitions are downloaded in this folder.
 2. Include references to this files in your application.
+
     ```html
     /// <reference path="../igniteui/jquery.d.ts" />
     /// <reference path="../igniteui/igniteui.d.ts" />
     ```
+    
 3. Voila - ItelliSense for Ignite UI controls is avaliable in your application.
 
 #Running in GitHub
