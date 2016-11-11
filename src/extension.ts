@@ -45,5 +45,5 @@ function checkDirectory(directory, callback) {
       //just in case there was a different error:
       callback(err)
     }
-  }
-
+  })
+}
