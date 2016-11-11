@@ -21,7 +21,7 @@ This extension adds IntelliSense for IgniteUI controls to your visual Visual Stu
 To run the extension, you need [Node.js](https://nodejs.org/en/) installed.
 
 1. git clone https://github.com/IgniteUI/ignite-ui-IntelliSense-for-VS-Code.git
-2. Open folder in VS Code.
+2. Open cloned folder in VS Code.
 3. Press F5 to open a new VS Code window with your extension loaded.
 4. Open the application that you want to enable the extension for.
 5. Press Ctrl+Shift+P and type IgniteUI IntelliSense.
