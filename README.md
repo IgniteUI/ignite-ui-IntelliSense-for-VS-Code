@@ -1,4 +1,4 @@
-﻿# IgniteUIIntelliSense for Visual Studio Code
+﻿# Ignite UI IntelliSense for Visual Studio Code
 
 This extension adds IntelliSense for IgniteUI controls to your visual Visual Studio Code.
 
