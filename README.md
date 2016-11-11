@@ -14,11 +14,11 @@ This extension adds IntelliSense for IgniteUI controls to your visual Visual Stu
     /// <reference path="../igniteui/jquery.d.ts" />
     /// <reference path="../igniteui/igniteui.d.ts" />
     ```
-    
+
 3. Voila - ItelliSense for Ignite UI controls is avaliable in your application.
 
 #Running in GitHub
-To tun the extension, you need [Node.js](https://nodejs.org/en/) installed.
+To run the extension, you need [Node.js](https://nodejs.org/en/) installed.
 
 1. git clone https://github.com/IgniteUI/ignite-ui-IntelliSense-for-VS-Code.git
 2. npm start
